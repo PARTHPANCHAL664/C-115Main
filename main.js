@@ -39,7 +39,7 @@ function draw()
 {
     
     image(video,0,0,300,300);
-    image(moustache,nose_x - 43,nose_y - 10,90 ,90 );
+    image(moustache,nose_x - 43,nose_y - 8,90 ,65 );
     
 }
 
